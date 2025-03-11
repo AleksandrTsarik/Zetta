@@ -28,7 +28,12 @@
             </ul>
           </div>
           <div class="refund__more">
-            <a href="#" class="btn btn-dark">Оформить полис онлайн</a>
+            <a
+              href="https://zettains.ru/calculators/osgop/?utm_source=2512541&utm_medium=9519741456&utm_campaign=9510823705"
+              target="_blank"
+              class="btn btn-dark"
+              >Оформить полис онлайн</a
+            >
           </div>
         </div>
         <div class="refund__block">
