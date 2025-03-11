@@ -9,7 +9,12 @@
             за&nbsp;несколько минут.
           </div>
           <div class="banner__more">
-            <a href="#" class="btn btn-dark">Оформить онлайн</a>
+            <a
+              href="https://zettains.ru/calculators/osgop/?utm_source=2512541&utm_medium=9519741456&utm_campaign=9510823705"
+              target="_blank"
+              class="btn btn-dark"
+              >Оформить онлайн</a
+            >
           </div>
           <div class="banner-card">
             <div class="banner-card__item" v-for="(item, i) in cards" :key="i">
